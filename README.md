@@ -10,24 +10,44 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Brian's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+#### Pre-Cloud Journey
 
-[✍️ Introduce yourself]
+I've been working as a developer for more than 2 years, at a non-tech (hospitality) company in New York City. Their business was structured around 3 commercial SaaS products (for sales, production and accounting), none of which could effectively integrate with the others. In addition, there were several important functional areas of the business for which the relevant features of the existing SaaS offerings weren't cutting it or were simply absent. 
 
-[✍️ Tell us why you started this challenge]
+Together, these deficiencies were identified as a critical problem as the company began looking to expand into its fourth decade. I created a series of internal platforms and pipelines to address these issues, and launched a customer-facing ordering platform that allowed the company to compete for a new tier of business opportunities. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+All of these solutions were web-based, off-premise via [DigitalOcean](https://www.digitalocean.com/) as the company was leery of repeating their experience during Hurricane Sandy, which knocked out their on-premises servers for weeks while they still had ongoing customer commitments. However, they weren't interested in exploring options from Azure (despite being a Microsoft-centered business) or AWS, so I didn't get any proper cloud experience during my time there.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+Now I'm looking for new work, and looking to add cloud skillset and practical experience, and am first focusing on **Amazon Web Services**.
+
+#### Why #100DaysOfCloud?
+
+For my entire life, I've been a self-propelled and avid learner.
+
+Over the past 5 years, I've been actively engaged in online learning, in self-directed casual settings like [Udemy](https://udemy.com), in educationally-affiliated but non-rigorous settings like [Coursera](https://coursera.org) and in educationally-affiliated but extremely rigorous settings like the [MITx Supply Chain Managment MicroMasters program](https://www.edx.org/micromasters/mitx-supply-chain-management) on [edX](https://edx.org).
+
+I've found the most value in settings where I've had to make a significant investment (in time or money) while also being subject to scrutiny and feedback.
+
+One thing that was always a constant, though, was that **learning was always a solitary activity**.
+
+The concept of [learning in public](https://www.swyx.io/writing/learn-in-public-hack/) has emerged in the past several years, which highlights the advantages of engaging in a community of learners, opening sharing their progress and stumbles. I'm hoping that working together with the larger #100DaysOfCloud community will help me grow personally and professionally, and that my feedback for and encouragement of others with help them as well.
+
+#### Where will #100DaysOfCloud Take Me?
+
+I'm excited to learn how to best make use of the opportunities that the cloud & serverless models offer developers and businesses.
+
+I passed the AWS Certified Cloud Practitioner exam at the beginning of July. Over the next 2.5 months, I would like to continue onward to pass the AWS Certified Solutions Architect – Associate and AWS Certified Developer – Associate exams.
+
+By the end of this challenge, I would like to have found a new job utilizing these skills.
+
+- Visit me on [Twitter](https://twitter.com/home)
+- or on [LinkedIn](https://www.linkedin.com/in/brian-ibbotson/)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
