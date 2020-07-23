@@ -1,52 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Studying for my Solutions Architect Certification
 
-# New post title here
+## Today's Progress
 
-## Introduction
+- Today was my first day participating in the [#100DaysOfCloud](https://100daysofcloud.com) challenge, although I've been focusing on AWS and the cloud since the beginning of June. I successfully passed the AWS Certified Cloud Practitioner exam on July 2nd.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Spent most of the day studying for the AWS Certified Solutions Architect - Associate (SAA-C02) exam. I had originally planned on attempting the exam at the end of August but have moved up my timeline by two weeks. I will be following this certification with the Certified Developer - Associate. Why? The balance of theoretical vs practical knowledge is weighted much heavier towards practical for the developer exam, and since I will more frequently be working on applied projects for the #100DaysOfCloud and for my personal portfolio, it makes sense to get the SAA exam out of the way earlier and devote a longer, more focused block to prepping for the DA exam.
 
-## Prerequisite
+- Started working through the video lessons of the [AWS Certified Solutions Architect Associate (SAA-C02) 2020](https://www.exampro.co/aws-exam-solutions-architect-associate) course at [ExamPro](http://www.exampro.co). Andrew Brown has a lot of useful tips and suggestions for how to approach and think about the AWS topics that will be covered in specific depth for this exam. The site also has preparation courses on Azure and Oracle Cloud certifications, if that's of interest to you.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Covered the lessons on storage (S3, Snowball) and networking (VPC).
 
-## Use Case
+- Future progress posts will tackle specific projects or present a review of a topic as a mini-tutorial. I'm excited to do so! Currently I'm working on projects using DynamoDB, Cognito and Boto3 (the Python SDK for AWS), so I'll definitely be turning some of my learning into tutorials and step-by-step micro-projects.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- This blog post is also viewable on my [#100DaysOfCloud Github repo](https://github.com/quinceleaf/100DaysOfCloud/blob/main/Journey/001/Readme.md), where you can follow my progress in a more focused manner than on my blog here, which may cover other topics.
 
-## Cloud Research
+## Useful Resources
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- [ExamPro AWS Certified Solutions Architect Associate (SAA-C02) 2020](https://www.exampro.co/aws-exam-solutions-architect-associate)
+- [AWS Well-Architected: Learn, measure, and build using architectural best practices](https://aws.amazon.com/architecture/well-architected/)
+- [Amazon Simple Storage Service (S3) Documentation](https://docs.aws.amazon.com/s3/index.html)
+- [AWS Snow Family Documentation](https://docs.aws.amazon.com/snowball/)
+- [Building a Modular and Scalable Virtual Network Architecture with Amazon VPC](https://docs.aws.amazon.com/quickstart/latest/vpc/welcome.html)
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Twitter](https://twitter.com/quinceleaf/status/1286180656406552583)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6691947641397481473/)
