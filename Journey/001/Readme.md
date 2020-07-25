@@ -12,8 +12,6 @@
 
 - Future progress posts will tackle specific projects or present a review of a topic as a mini-tutorial. I'm excited to do so! Currently I'm working on projects using DynamoDB, Cognito and Boto3 (the Python SDK for AWS), so I'll definitely be turning some of my learning into tutorials and step-by-step micro-projects.
 
-- This blog post is also viewable on my [#100DaysOfCloud Github repo](https://github.com/quinceleaf/100DaysOfCloud/blob/main/Journey/001/Readme.md), where you can follow my progress in a more focused manner than on my blog here, which may cover other topics.
-
 ## Useful Resources
 
 - [ExamPro AWS Certified Solutions Architect Associate (SAA-C02) 2020](https://www.exampro.co/aws-exam-solutions-architect-associate)
@@ -23,8 +21,6 @@
 - [Building a Modular and Scalable Virtual Network Architecture with Amazon VPC](https://docs.aws.amazon.com/quickstart/latest/vpc/welcome.html)
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
 
 [Twitter](https://twitter.com/quinceleaf/status/1286180656406552583)
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6691947641397481473/)
