@@ -1,52 +1,28 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# DynamoDB Deep Dive
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+_(Slipped in tracking my progress... been learning/studying for my upcoming Solutions Architect-Associate exam everyday, and beginning to build/code an AWS-hosted website to combine together a number of services. But I failed to document/show social proof, so I'll take the hit in progressed days.)_
 
-## Prerequisite
+Spent today:
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- learning more about DynamoDB, watching episodes of AWS's [Build with DynamoDB](https://www.youtube.com/playlist?list=PLoYZGW8AgG1bpxkoVaSDNTff-Zyii-dzH) and [DynamoDB | Office Hours with Rick Houlihan](https://www.twitch.tv/search?term=office%20hours%20with%20rick%20houlihan)
+- getting my single-table design/GSIs right using AWS's life-saving [NoSQL Workbench for Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.settingup.html)
+- giving the new v1.0 release of [Dynobase]() a spin, which _should_ let me browse & query my local [DynamoDB Docker image](https://hub.docker.com/r/amazon/dynamodb-local) in an even easier way than the AWS Console lets me browse & query the cloud version (haven't quite got it working locally yet)
+- coding basic setup (create/delete table, load data) and basic CRUD and query functionality using [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/dynamodb.html) so that I can next wire up the API Gateway-Lambda portions of the project.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Tomorrow I hope to:
+
+- set up API Gateway and the necessary Lambdas so that my React frontend can query and post to my DynamoDB table
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+### Twitter
 
-[link](link)
+[Day 03/100](https://twitter.com/quinceleaf/status/1291229769514848262)
+
+### LinkedIn
+
+[Day 03/100](https://www.linkedin.com/posts/brian-ibbotson_100daysofcloud-activity-6696999635904532480-4T0H)
