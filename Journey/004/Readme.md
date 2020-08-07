@@ -1,52 +1,47 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Spent today:
 
-## Prerequisite
+- re-wrote my Python CRUD and query functions, written locally and tested against my local [DynamoDB Docker image](https://hub.docker.com/r/amazon/dynamodb-local), into AWS Lambda functions calling on my production DynamoDB table
+- setting up API Gateway to trigger these lambdas as a result of HTTP requests
+- set up all of the routes as individual lambda functions, and then wondered if there was a best practice to do so or to combine them into larger, monolithic functions – Yan Cui's
+  [blog post on HackerNoon](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f) was helpful in sketching out the considerations to weigh in choosing which approach to take.
+- As he points out, by properly naming the functions and diligently tagging them, you shouldn't have any issues _organizing_ or _finding_ functions.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Obstacles
 
-## Use Case
+Been trying to resolve a problem with the APIs:
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- The methods test fine, both at the lambda level and testing the API within the AWS console.
 
-## Cloud Research
+- Despite the methods being listed as `Authorization: None` and `API Key: Not required`, trying to call them from outside the console – via `curl`, Postman, Insomnia or the browser – results in the following:
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+```
+{
+  "message": "Missing Authentication Token"
+}
+```
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- Found numerous posts on the AWS Support Forums and elsewhere from people with same symptoms, with many suggestions for resolving the problem (such as, the problem can occur if you call a route by a method that you haven't yet defined), but so far have not had any luck resolving the issue.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Tomorrow I _plan_ to:
+
+- resolve the authorization problem and finish setting up API Gateway
+- continue studying for the SAA-CO2 exam
+
+## Resources
+
+- [AWS / Best practices for working with AWS Lambda functions](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
+- [Yan Cui / AWS Lambda - should you have few monolithic functions or many single-purposed functions?](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+### Twitter
 
-[link](link)
+[Day 04/100](https://twitter.com/quinceleaf/status/1291579008631676928)
+
+### LinkedIn
+
+[Day 04/100](https://www.linkedin.com/feed/update/urn:li:activity:6697346223818571776/)

@@ -3,20 +3,21 @@
 </p>
 
 ## The Challenge
+
 1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
 2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
 3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
 4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
 5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+6. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
 ## Brian's Cloud Journey
 
 #### Pre-Cloud Journey
 
-I've been working as a developer for more than 2 years, at a non-tech (hospitality) company in New York City. Their business was structured around 3 commercial SaaS products (for sales, production and accounting), none of which could effectively integrate with the others. In addition, there were several important functional areas of the business for which the relevant features of the existing SaaS offerings weren't cutting it or were simply absent. 
+I've been working as a developer for more than 2 years, at a non-tech (hospitality) company in New York City. Their business was structured around 3 commercial SaaS products (for sales, production and accounting), none of which could effectively integrate with the others. In addition, there were several important functional areas of the business for which the relevant features of the existing SaaS offerings weren't cutting it or were simply absent.
 
-Together, these deficiencies were identified as a critical problem as the company began looking to expand into its fourth decade. I created a series of internal platforms and pipelines to address these issues, and launched a customer-facing ordering platform that allowed the company to compete for a new tier of business opportunities. 
+Together, these deficiencies were identified as a critical problem as the company began looking to expand into its fourth decade. I created a series of internal platforms and pipelines to address these issues, and launched a customer-facing ordering platform that allowed the company to compete for a new tier of business opportunities.
 
 All of these solutions were web-based, off-premise via [DigitalOcean](https://www.digitalocean.com/) as the company was leery of repeating their experience during Hurricane Sandy, which knocked out their on-premises servers for weeks while they still had ongoing customer commitments. However, they weren't interested in exploring options from Azure (despite being a Microsoft-centered business) or AWS, so I didn't get any proper cloud experience during my time there.
 
@@ -47,10 +48,10 @@ By the end of this challenge, I would like to have found a new job utilizing the
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [x] ☁️ 1 > [](Journey/001/Readme.md)
+- [x] ☁️ 2 > [](Journey/002/Readme.md)
+- [x] ☁️ 3 > [](Journey/003/Readme.md)
+- [x] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
