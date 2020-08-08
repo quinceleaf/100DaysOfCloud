@@ -24,8 +24,8 @@ Tomorrow I _plan_ to:
 
 ### Twitter
 
-[Day 05/100]()
+[Day 05/100](https://twitter.com/quinceleaf/status/1291946506510053376)
 
 ### LinkedIn
 
-[Day 05/100]()
+[Day 05/100](https://www.linkedin.com/posts/brian-ibbotson_build-an-app-with-the-aws-cloud-development-activity-6697713700918439937-wDkr)
