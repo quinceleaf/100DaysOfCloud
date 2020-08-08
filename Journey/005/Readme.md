@@ -1,52 +1,31 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Spent today:
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- studying/reviewing _Identity and Access Management_ & _S3_ for my upcoming Solutions Architect – Associate exam, including the various documentation pages, whitepapers and guides
+- reading Tomasz Łakomy's latest [blog post](), which inspired me to finally take the time to work through his excellent and informative [egghead.io](https://egghead.io) course [Build an App with the AWS Cloud Development Kit](https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit).
+- look forward to getting some time to play around and explore the CDK after the SAA exam, I've read a lot of excited posts and tweets about how useful people are finding it.
+- didn't yet revisit the problems I was experiencing yesterday with the mysterious "Missing Authentication Token" response when I called any endpoint of my new API Gateway outside of the console (calling them in either the API Gateway method test pages or the various Lambda test pages generates no errors).
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Tomorrow I _plan_ to:
+
+- resolve the authorization problem and finish setting up API Gateway
+- continue studying for the SAA-CO2 exam
+
+## Resources
+
+- [Tomasz Łakomy / CDK Made Simple: Managing S3 lifecycle policies with CDK](https://tlakomy.com/managing-s3-lifecycle-policies-with-cdk)
+- [Tomasz Łakomy / Build an App with the AWS Cloud Development Kit](https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit)
+- [AWS / Best Practices Design Patterns: Optimizing Amazon S3 Performance](https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+### Twitter
 
-[link](link)
+[Day 05/100]()
+
+### LinkedIn
+
+[Day 05/100]()
