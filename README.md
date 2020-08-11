@@ -33,7 +33,7 @@ I've found the most value in settings where I've had to make a significant inves
 
 One thing that was always a constant, though, was that **learning was always a solitary activity**.
 
-The concept of [learning in public](https://www.swyx.io/writing/learn-in-public-hack/) has emerged in the past several years, which highlights the advantages of engaging in a community of learners, opening sharing their progress and stumbles. I'm hoping that working together with the larger #100DaysOfCloud community will help me grow personally and professionally, and that my feedback for and encouragement of others with help them as well.
+The concept of [learning in public](https://www.swyx.io/writing/learn-in-public-hack/) has emerged in the past several years, which highlights the advantages of engaging in a community of learners, openly sharing their progress and stumbles. I'm hoping that working together with the larger #100DaysOfCloud community will help me grow personally and professionally, and that my feedback for and encouragement of others with help them as well.
 
 #### Where will #100DaysOfCloud Take Me?
 
@@ -55,7 +55,7 @@ By the end of this challenge, I would like to have found a new job utilizing the
 - [x] ☁️ 5 > [](Journey/005/Readme.md)
 - [x] ☁️ 6 > [](Journey/006/Readme.md)
 - [x] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [x] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
