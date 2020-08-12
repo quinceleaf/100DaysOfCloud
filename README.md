@@ -56,7 +56,7 @@ By the end of this challenge, I would like to have found a new job utilizing the
 - [x] ☁️ 6 > [](Journey/006/Readme.md)
 - [x] ☁️ 7 > [](Journey/007/Readme.md)
 - [x] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [x] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
