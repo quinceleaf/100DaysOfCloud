@@ -1,52 +1,27 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Happy to announce that I earned my [AWS Solutions Architect Associate certification](https://www.youracclaim.com/badges/100083a4-d4b9-43c3-a319-ef96ef683393/public_url) yesterday!
 
-## Prerequisite
+- Big thanks to [Andrew Brown](https://github.com/omenking) and his team at [ExamPro](https://www.exampro.co/) and [Neal Davis](https://www.linkedin.com/in/ACoAAAsq7qMBw0-gVHS9KwIarAiaVM8a6ibALUI) and his team at [Digital Cloud Training]() for producing informative training materials and practice exams – I've already purchased both of their DVA packages, too!
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- And thank you to [Gwyneth Pena](https://www.linkedin.com/in/ACoAACPVV9MB9OfuOwXQrHj-I3hljOqxLG6XGC0), [Jose Talancha](https://www.linkedin.com/in/jose-talancha/), [Antonio Lo Fiego](https://www.linkedin.com/in/antoniolofiego/), [Christina Gorton](https://www.linkedin.com/in/christinagorton/), [Rishab Kumar](https://www.linkedin.com/in/rishabkumar7/), [Andrew Bayko](https://www.linkedin.com/in/abayko), [Chris Nagy](https://www.linkedin.com/in/hey-itschris/) and everyone else in the #100DaysOfCloud Discord community for encouragement and kind feedback!
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- begin working through a series of CDK and serverless projects – and documenting them in a series of tutorial posts and/or videos –
+- preparing for the Developer Associate exam
+
+## Resources
+
+- [ExamPro](https://www.exampro.co/)
+- [Digital Cloud Training](https://bit.ly/2Eb1t4a)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+### Twitter
 
-[link](link)
+[Day 15/100](https://twitter.com/quinceleaf/status/1296886173743435776)
+
+### LinkedIn
+
+[Day 15/100](https://www.linkedin.com/posts/brian-ibbotson_aws-certified-solutions-architect-associate-activity-6702653366394212352-CuNp)
