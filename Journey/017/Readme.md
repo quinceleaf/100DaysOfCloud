@@ -28,8 +28,8 @@ Spent today:
 
 ### Twitter
 
-[Day 16/100](https://twitter.com/quinceleaf/status/1298342217246035968)
+[Day 17/100](https://twitter.com/quinceleaf/status/1298792478322176000)
 
 ### LinkedIn
 
-[Day 16/100](https://www.linkedin.com/posts/brian-ibbotson_100daysofcloud-activity-6704097791796498432-asrW)
+[Day 17/100](https://www.linkedin.com/posts/brian-ibbotson_aws-training-and-certification-activity-6704561091969712128-F4n5)
