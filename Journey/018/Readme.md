@@ -1,52 +1,33 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Spent today:
 
-## Prerequisite
+#### _Studying_
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- finished my written notes for all topics for the DVA exam
+- continuing reviewing videos and doing short hands-on projects for **CloudFormation** and **CloudFront**
+- begin taking practice exams tomorrow
 
-## Use Case
+#### _General AWS Learning_
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- watched 1 episode of AWS's [This is My Architecture](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb) series.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- continuing to prepare for the Developer Associate exam
+
+## Resources
+
+#### _AWS Training & Videos_
+
+- [Cookpad: AWS-native Security Architecture to Monitor and Analyze Security Logs](https://www.youtube.com/watch?v=rsZjU5g_yXI)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+### Twitter
 
-[link](link)
+[Day 18/100](https://twitter.com/quinceleaf/status/1299978918125068288)
+
+### LinkedIn
+
+[Day 18/100](https://www.linkedin.com/posts/brian-ibbotson_aws-lambda-101-lumigo-activity-6705746281597415424-3iQ4)
