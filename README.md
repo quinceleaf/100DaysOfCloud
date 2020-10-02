@@ -70,7 +70,7 @@ By the end of this challenge, I would like to have found a new job utilizing the
 - [x] ☁️ 17 > [](Journey/017/Readme.md)
 - [x] ☁️ 18 > [](Journey/018/Readme.md)
 - [x] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [x] ☁️ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
 

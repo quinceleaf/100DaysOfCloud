@@ -1,52 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+## Today
 
-# New post title here
+- Worked on my MES project
 
-## Introduction
+### Data Modeling and DynamoDB
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Completed a first cut at the data model for the project, and compiled a mock data set to use while debugging Lambda functions and beginning work on the frontend.
 
-## Prerequisite
+- So far, I've been able to set up DynamoDB as a single table, which is pretty crazy for this type of project. I might have to revisit this decision later, but for now I will continue down this path.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+### SAM/CloudFormation IaC
 
-## Use Case
+- Set up a base template to use as I proceed to the stage of authoring (and revising) the Lambda functions of this project.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- I had used the console for working on the set of Lambdas for all the routes for my [Cloud Calendar](https://github.com/quinceleaf/cloud-calendar) project. This method certainly works, but there are some drawbacks. As this was my first major Lambda-based project, I learned from making and correctly a lot of mistakes. However, all of this extra code tweaking required extra attention to make sure that the revisions and bug fixes were consistently applied to both the versions on my laptop and the deployed version.
 
-## Cloud Research
+- Using SAM, I can work exclusively on my local version and then deploy from that version, which I anticipate will eliminate a lot of the extra effort.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- Watched several episodes of AWS's [This is My Architecture](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- working further on the MES project
+
+## Resources
+
+- AWS's [This is My Architecture](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+### Twitter
 
-[link](link)
+[Day 20/100](https://twitter.com/quinceleaf/status/1311967208734683136)
+
+### LinkedIn
+
+[Day 20/100](https://www.linkedin.com/feed/update/urn:li:activity:6717736446549204993/)
