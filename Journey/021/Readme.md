@@ -1,52 +1,35 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+## Today
 
-# New post title here
+- Worked on my MES project
 
-## Introduction
+### Cognito
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Working towards getting Cognito set up, via SAM, to provide JWT authentication in my project. I've set up JWT-issuing servers before for other projects, and a managed service like Cognito seems like a great option.
 
-## Prerequisite
+- Ran into trouble as the default out-of-the-box configuration for Cognito is to protect all routes and their methods. For programmatic access, this doesn't present a problem - I can generate signups and log in via the appropriate routes. Running through the browser (my application is based on Next.js), however, encounters CORS issues.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Specifically, the requests are `blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.`
 
-## Use Case
+- A GitHub comment by Sébastien Stormacq (on a related Cognito/API Gateway issue) has pointed to the problem likely being that, under the default configuration, Cognito is rejecting the `OPTIONS` method call as unauthorized - so tools like Postman/Insomnia and direct program requests can succeed, but browser-based requests fail.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Still working on re-tooling my SAM template to properly get Cognito and API Gateway to allow `OPTIONS` calls.
 
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- Once I get this working, I can apply the solution to both the MES project and my Cloud Calendar, so I'm eager to knock it out.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- Working further on the MES project
+
+## Resources
+
+- GitHub: [Amplify REACT fails to call REST API protected by Cognito User Pool (unauthorized OPTIONS call)](https://github.com/aws-amplify/amplify-js/issues/3456#issuecomment-502028330)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+### Twitter
 
-[link](link)
+[Day 21/100](https://twitter.com/quinceleaf/status/1312216029150363648)
+
+### LinkedIn
+
+[Day 21/100](https://www.linkedin.com/feed/update/urn:li:activity:6717979839367909376/)
