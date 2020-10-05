@@ -75,7 +75,7 @@ By the end of this challenge, I would like to have found a new job utilizing the
 ## Crossing the bridge
 
 - [x] ☁️ 21 > [](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
+- [x] ☁️ 22 > [](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)

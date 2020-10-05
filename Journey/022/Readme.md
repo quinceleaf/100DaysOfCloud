@@ -1,52 +1,31 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+## Today
 
-# New post title here
+- Worked on authentication for my CloudCalendar and MES projects
 
-## Introduction
+- Successfully set up AWS Cognito as pool for my frontend user/group authentication and management & as a Lambda-based authorizer for my API Gateway.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- I'm not using AWS Amplify, which is being pushed as the all-inclusive way to get started with Cognito and other services, but rather using Cognito directly as a user pool/directory against which JWTs can be issued to the frontend, and as a Lambda-based authorizer for the API.
 
-## Prerequisite
+- As such, I set up my own frontend interface (login, etc) rather than use the hosted-UI components Amplify offers.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Next I'll work on weaving authentication through rest of frontend routes, pages, and queries, and into the Lambdas that read and write to the DynamoDB tables for each project.
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- Learned a lot of good lessons on implementing frontend (React) and API authentication from a paid [egghead](egghead.io) workshop I took back in May from Ryan Chenkie (of [reactsecurity.io](reactsecurity.io), and formerly at [Auth0](https://auth0.com)). Glad to put the lessons to use!
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- Working further on the MES project
+
+## Resources
+
+- None today
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+### Twitter
 
-[link](link)
+[Day 22/100](https://twitter.com/quinceleaf/status/1312910910395232257)
+
+### LinkedIn
+
+[Day 22/100](https://www.linkedin.com/posts/brian-ibbotson_react-security-activity-6718680753472970752-44Q6)
