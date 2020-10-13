@@ -1,52 +1,35 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+## Today
 
-# New post title here
+- Continued working with Next.js on the frontend for my MES project
 
-## Introduction
+- Almost completed work on the #CloudGuruChallenge for October 2020, **Event-Driven Python on AWS**
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Was dismayed to discover, only after building the ETL pipeline to DynamoDB, that Quicksight does not support it as a data source
 
-## Prerequisite
+- Also discovered Quicksight is not free but merely offers a 2-month trial. And while there is one data visualization service out there that **does** connect to DynamoDB – [Redash.io](https://redash.io/) – it too only offers a 60-day trial.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- I would prefer a longer-term option that I could then offer as an example of my work in my portfolio. I then added API Gateway and additional Lambda functions to my SAM template so that the ETL'ed dataset could be called from a dashboard I would build myself.
 
-## Use Case
+- Learned a lot while working to get [Charts.js](https://www.chartjs.org/docs/latest/) & [react-chartsjs-2](http://jerairrest.github.io/react-chartjs-2/) to display the data. I like the results so far, just need to finish a minor change so that the dashboard is usable on smaller screen sizes (within reason).
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- For more information on the challenge, see [Forrest Brazeal's](https://github.com/forrestbrazeal) original post on the [A Cloud Guru blog](https://acloudguru.com/blog/engineering/cloudguruchallenge-python-aws-etl)
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- Working further on the MES project and the #CloudGuruChallenge
+
+## Resources
+
+- [Charts.js](https://www.chartjs.org/docs/latest/)
+- [react-chartsjs-2](http://jerairrest.github.io/react-chartjs-2/)
+- [Redash.io](https://redash.io/)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+### Twitter
 
-[link](link)
+[Day 24/100](https://twitter.com/quinceleaf/status/1315860869612482560)
+
+### LinkedIn
+
+[Day 24/100](https://www.linkedin.com/posts/brian-ibbotson_100daysofcloud-cloudguruchallenge-aws-activity-6721624992863289344-GoK5)
