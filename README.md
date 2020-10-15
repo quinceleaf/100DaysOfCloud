@@ -78,7 +78,7 @@ By the end of this challenge, I would like to have found a new job utilizing the
 - [x] ☁️ 22 > [](Journey/022/Readme.md)
 - [x] ☁️ 23 > [](Journey/023/Readme.md)
 - [x] ☁️ 24 > [](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
+- [x] ☁️ 25 > [](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
